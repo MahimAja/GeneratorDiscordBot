@@ -1,0 +1,143 @@
+spikesparadise@comcast.net:packard123 | Plan = Standard | videoQuality = HD | maxStreams = 2 | Payment Method = CC | Payment Method Type = VISA
+jgoldenr@comcast.net:Wiz1wiz1! | Plan = Basic | videoQuality = SD | maxStreams = 1 | Payment Method = CC | Payment Method Type = DISCOVER
+5mcmahons@comcast.net:Irishman1 | Plan = Premium | videoQuality = UHD | maxStreams = 4 | Payment Method = COMCAST_BILLED
+bcdonahoe@comcast.net:Bc831200 | Plan = Basic | videoQuality = SD | maxStreams = 1 | Payment Method = CC | Payment Method Type = MASTERCARD
+damantia@comcast.net:Blabber301 | Plan = Premium | videoQuality = UHD | maxStreams = 4 | Payment Method = CC | Payment Method Type = MASTERCARD
+searogans@comcast.net:Bunnyrose8 | Plan = Standard | videoQuality = HD | maxStreams = 2 | Payment Method = CC | Payment Method Type = VISA
+bcraig23@comcast.net:GriffDev1 | Plan = Standard | videoQuality = HD | maxStreams = 2 | Payment Method = CC | Payment Method Type = VISA
+amykay812@comcast.net:1Tennman | Plan = Standard | videoQuality = HD | maxStreams = 2 | Payment Method = COMCAST_BILLED
+thompsm@comcast.net:Techprep1! | Plan = Standard | videoQuality = HD | maxStreams = 2 | Payment Method = CC | Payment Method Type = VISA
+gjline@comcast.net:61Yankees | Plan = Premium | videoQuality = UHD | maxStreams = 4 | Payment Method = COMCAST_BILLED
+cab889@comcast.net:Arizona13 | Plan = Premium | videoQuality = UHD | maxStreams = 4 | Payment Method = CC | Payment Method Type = VISA
+jenniferbolton3689@comcast.net:holly11 | Plan = Standard | videoQuality = HD | maxStreams = 2 | Payment Method = CC | Payment Method Type = VISA
+fords25@comcast.net:Cassidy2 | Plan = Standard | videoQuality = HD | maxStreams = 2 | Payment Method = COMCAST_BILLED
+ajburth@comcast.net:Allison54 | Plan = Premium | videoQuality = UHD | maxStreams = 4 | Payment Method = CC | Payment Method Type = VISA
+kimandlarry@comcast.net:teal1957 | Plan = Premium | videoQuality = UHD | maxStreams = 4 | Payment Method = COMCAST
+drralphm@comcast.net:5254Usmc | Plan = Standard | videoQuality = HD | maxStreams = 2 | Payment Method = CC | Payment Method Type = DISCOVER
+vicki.reynolds@comcast.net:6Goobers | Plan = Basic | videoQuality = SD | maxStreams = 1 | Payment Method = CC | Payment Method Type = VISA
+ccdmd@comcast.net:Bollinger8 | Plan = Standard | videoQuality = HD | maxStreams = 2 | Payment Method = CC | Payment Method Type = AMEX
+amazeingteacher@comcast.net:Pink0000! | Plan = Basic | videoQuality = SD | maxStreams = 1 | Payment Method = CC | Payment Method Type = MASTERCARD
+hbjuice@comcast.net:Pensacola7 | Plan = Premium | videoQuality = UHD | maxStreams = 4 | Payment Method = CC | Payment Method Type = VISA
+dmabraham@comcast.net:Bodo1278 | Plan = Premium | videoQuality = UHD | maxStreams = 4 | Payment Method = COMCAST_BILLED
+acbarnett@comcast.net:Chiarello1! | Plan = Standard | videoQuality = HD | maxStreams = 2 | Payment Method = COMCAST_BILLED
+agrinnell@comcast.net:Sntg9797! | Plan = Premium | videoQuality = UHD | maxStreams = 4 | Payment Method = CC | Payment Method Type = VISA
+reggie16@comcast.net:Lakers24! | Plan = Standard | videoQuality = HD | maxStreams = 2 | Payment Method = CC | Payment Method Type = VISA
+levwndy@comcast.net:Sabrina1234 | Plan = Standard | videoQuality = HD | maxStreams = 2 | Payment Method = CC | Payment Method Type = VISA
+gailludwig@comcast.net:Dogs1234 | Plan = Basic | videoQuality = SD | maxStreams = 1 | Payment Method = GIFT
+matt-tobeycarew@comcast.net:15Kenwood | Plan = Standard | videoQuality = HD | maxStreams = 2 | Payment Method = CC | Payment Method Type = VISA
+kenbean1@comcast.net:Mere1095! | Plan = Standard | videoQuality = HD | maxStreams = 2 | Payment Method = CC | Payment Method Type = MASTERCARD
+rrcsweet@comcast.net:75321Qwe! | Plan = Basic | videoQuality = SD | maxStreams = 1 | Payment Method = PAYPAL
+btyler1@comcast.net:BT333333 | Plan = Basic | videoQuality = SD | maxStreams = 1 | Payment Method = CC | Payment Method Type = AMEX
+jdickson6573@comcast.net:andrewal23 | Plan = Basic | videoQuality = SD | maxStreams = 1 | Payment Method = CC | Payment Method Type = MASTERCARD
+sbsmech@comcast.net:Boonie11! | Plan = Standard | videoQuality = HD | maxStreams = 2 | Payment Method = CC | Payment Method Type = MASTERCARD
+strawrazzberry@comcast.net:a1048561 | Plan = Premium | videoQuality = UHD | maxStreams = 4 | Payment Method = COMCAST
+joruta2@comcast.net:Rookie02 | Plan = Basic | videoQuality = SD | maxStreams = 1 | Payment Method = CC | Payment Method Type = MASTERCARD
+ltclark000@comcast.net:Timothyy99 | Plan = مميزة | videoQuality = UHD | maxStreams = 4 | Payment Method = COMCAST
+bjpatten@comcast.net:Wreckthecat1 | Plan = Premium | videoQuality = UHD | maxStreams = 4 | Payment Method = CC | Payment Method Type = VISA
+cloliveira53@comcast.net:leonardo53 | Plan = Premium | videoQuality = UHD | maxStreams = 4 | Payment Method = CC | Payment Method Type = VISA
+davidprice78@comcast.net:Koritfw78! | Plan = Standard | videoQuality = HD | maxStreams = 2 | Payment Method = CC | Payment Method Type = VISA
+nichelemcconnell@comcast.net:Bowling0579 | Plan = Standard | videoQuality = HD | maxStreams = 2 | Payment Method = COMCAST_BILLED
+carenski@comcast.net:Mcmrbv48 | Plan = Standard | videoQuality = HD | maxStreams = 2 | Payment Method = COMCAST_BILLED
+jjay8869@comcast.net:jJ551466! | Plan = Premium | videoQuality = UHD | maxStreams = 4 | Payment Method = CC | Payment Method Type = VISA
+dannyrose2@comcast.net:Miaavery1! | Plan = Standard | videoQuality = HD | maxStreams = 2 | Payment Method = COMCAST_BILLED
+amberschick@comcast.net:Laylabug1 | Plan = Premium | videoQuality = UHD | maxStreams = 4 | Payment Method = CC | Payment Method Type = VISA
+ccholzer@comcast.net:1mumsiepie | Plan = Standard | videoQuality = HD | maxStreams = 2 | Payment Method = COMCAST_BILLED
+yellowdogg@comcast.net:Dollyv1! | Plan = Standard | videoQuality = HD | maxStreams = 2 | Payment Method = CC | Payment Method Type = VISA
+melanieandpaul@comcast.net:melanie3622 | Plan = Standard | videoQuality = HD | maxStreams = 2 | Payment Method = COMCAST_BILLED
+jspettyrn@comcast.net:bramble5 | Plan = Standard | videoQuality = HD | maxStreams = 2 | Payment Method = CC | Payment Method Type = VISA
+cheryl989@comcast.net:Summer55 | Plan = Premium | videoQuality = UHD | maxStreams = 4 | Payment Method = CC | Payment Method Type = VISA
+anna-w@comcast.net:Chica22! | Plan = Standard | videoQuality = HD | maxStreams = 2 | Payment Method = CC | Payment Method Type = AMEX
+mgfrench718@comcast.net:Scoonie1 | Plan = Basic | videoQuality = SD | maxStreams = 1 | Payment Method = CC | Payment Method Type = VISA
+fleming4him@comcast.net:Littlelamb1 | Plan = Basic | videoQuality = SD | maxStreams = 1 | Payment Method = PAYPAL
+clpate56@comcast.net:Kady1021 | Plan = Standard | videoQuality = HD | maxStreams = 2 | Payment Method = CC | Payment Method Type = MASTERCARD
+hernandezjerry@comcast.net:Canyon366 | Plan = Premium | videoQuality = UHD | maxStreams = 4 | Payment Method = ITUNES
+csandrafree@comcast.net:Chief753 | Plan = Standard | videoQuality = HD | maxStreams = 2 | Payment Method = COMCAST
+jumper768@gmail.com:trident6 | Plan = Premium | videoQuality = UHD | maxStreams = 4 | paymentMethod = TMOBILE_US_BILLED
+alremo@gmail.com:kfa475k4 | Plan = Premium | videoQuality = UHD | maxStreams = 4 | paymentMethod = CC
+hoangthainguyen85@gmail.com:843611 | Plan = Miễn phí | videoQuality = SD | maxStreams = 1
+tommy2go@gmail.com:gateway8 | Plan = Standard | videoQuality = HD | maxStreams = 2 | paymentMethod = CC
+bugsbtunes@hotmail.com:jhurdles09 | Plan = Standard | videoQuality = HD | maxStreams = 2 | paymentMethod = CC
+anu.bhat21@gmail.com:anulinux | Plan = Basic | videoQuality = SD | maxStreams = 1 | paymentMethod = CC
+framelius@gmail.com:carmichael | Plan = Standard | videoQuality = HD | maxStreams = 2 | paymentMethod = CC
+ibsrashid@gmail.com:shafi1202 | Plan = Premium | videoQuality = UHD | maxStreams = 4 | paymentMethod = CC
+zerozxcv003@gmail.com:02236498751 | Plan = มือถือ | videoQuality = SD | maxStreams = 1 | paymentMethod = CC
+bhasha.bhardwaj@gmail.com:kush0909 | Plan = Basic | videoQuality = SD | maxStreams = 1 | paymentMethod = UPI
+signorini7@hotmail.com:Nokian958gb! | Plan = Standard | videoQuality = HD | maxStreams = 2 | Payment Method = PAYPAL
+sanmiguel_jpco@yahoo.com:Sanmiguel3387 | Plan = Premium | videoQuality = UHD | maxStreams = 4 | Payment Method = CC | Payment Method Type = AMEX
+lojikl@hotmail.com:Lojikl9363 | Plan = Basic | videoQuality = SD | maxStreams = 1 | Payment Method = CC | Payment Method Type = VISA
+samirbhatia95@gmail.com:Pumpit123 | Plan = Basic | videoQuality = SD | maxStreams = 1 | Payment Method = RELIANCE_JIO_PI_BILLED
+michelle_cotting@bellsouth.net:ken1michelle2 | Plan = Basic | videoQuality = SD | maxStreams = 1 | Payment Method = CC | Payment Method Type = VISA
+cjingram9506@bellsouth.net:ilovejoe1971 | Plan = Basic | videoQuality = SD | maxStreams = 1 | Payment Method = PAYPAL
+carolann232@comcast.net:tweekie232 | Plan = Basic | videoQuality = SD | maxStreams = 1 | Payment Method = CC | Payment Method Type = VISA
+majw0501@comcast.net:Husker92 | Plan = Premium | videoQuality = UHD | maxStreams = 4 | Payment Method = CC | Payment Method Type = VISA
+wasserfam@comcast.net:Surialpaca2+ | Plan = Premium | videoQuality = UHD | maxStreams = 4 | Payment Method = COMCAST
+shy1898@comcast.net:Divegoal1$ | Plan = Standard | videoQuality = HD | maxStreams = 2 | Payment Method = CC | Payment Method Type = VISA
+jennygirl23@comcast.net:Parklime23# | Plan = Premium | videoQuality = UHD | maxStreams = 4 | Payment Method = COMCAST
+megan.guenther@comcast.net:Meggieg1956@ | Plan = Premium | videoQuality = UHD | maxStreams = 4 | Payment Method = CC | Payment Method Type = VISA
+wilst55@comcast.net:Trinky123! | Plan = Standard | videoQuality = HD | maxStreams = 2 | Payment Method = CC | Payment Method Type = MASTERCARD
+tjcthr33@comcast.net:Romlanaq3! | Plan = Premium | videoQuality = UHD | maxStreams = 4 | Payment Method = CC | Payment Method Type = VISA
+jtlosik@comcast.net:Tummydoor95$ | Plan = Standard | videoQuality = HD | maxStreams = 2 | Payment Method = COMCAST_BILLED
+acwyllie@comcast.net:Chelini1 | Plan = Premium | videoQuality = UHD | maxStreams = 4 | Payment Method = COMCAST
+carriepeterson@comcast.net:1988June$ | Plan = Standard | videoQuality = HD | maxStreams = 2 | Payment Method = PAYPAL
+duckfootball@comcast.net:Kenzie123 | Plan = Premium | videoQuality = UHD | maxStreams = 4 | Payment Method = COMCAST_BILLED
+cxbrophy@comcast.net:Kirbyrose1$ | Plan = Premium | videoQuality = UHD | maxStreams = 4 | Payment Method = CC | Payment Method Type = MASTERCARD
+skippoulton@comcast.net:spike822 | Plan = Premium | videoQuality = UHD | maxStreams = 4 | Payment Method = CC | Payment Method Type = MASTERCARD
+khyles@comcast.net:durango | Plan = Standard | videoQuality = HD | maxStreams = 2 | Payment Method = COMCAST_BILLED
+topcat2016@comcast.net:Abc022454 | Plan = Basic | videoQuality = SD | maxStreams = 1 | Payment Method = CC | Payment Method Type = VISA
+pmihalov@comcast.net:Tteach241 | Plan = Basic | videoQuality = SD | maxStreams = 1 | Payment Method = PAYPAL
+deegresko1@comcast.net:Dec151997! | Plan = Standard | videoQuality = HD | maxStreams = 2 | Payment Method = CC | Payment Method Type = VISA
+kristingetz@comcast.net:Steelers1 | Plan = Premium | videoQuality = UHD | maxStreams = 4 | Payment Method = CC | Payment Method Type = VISA
+grm1962@comcast.net:gmac4164 | Plan = Standard | videoQuality = HD | maxStreams = 2 | Payment Method = COMCAST_BILLED
+kittymom267@comcast.net:snow123ball | Plan = Premium | videoQuality = UHD | maxStreams = 4 | Payment Method = COMCAST_BILLED
+wdgarrison@comcast.net:duk1234e | Plan = Premium | videoQuality = UHD | maxStreams = 4 | Payment Method = CC | Payment Method Type = MASTERCARD
+precourts@comcast.net:1Nickers! | Plan = Standard | videoQuality = HD | maxStreams = 2 | Payment Method = CC | Payment Method Type = MASTERCARD
+jferrand@comcast.net:Snazybaby1 | Plan = Premium | videoQuality = UHD | maxStreams = 4 | Payment Method = CC | Payment Method Type = MASTERCARD
+kathgray@comcast.net:Kasia0531! | Plan = Basic | videoQuality = SD | maxStreams = 1 | Payment Method = PAYPAL
+alexanderwilliams123@comcast.net:Feb14AWW7 | Plan = Basic | videoQuality = SD | maxStreams = 1 | Payment Method = CC | Payment Method Type = VISA
+pattishuler@comcast.net:treybailey678 | Plan = Premium | videoQuality = UHD | maxStreams = 4 | Payment Method = CC | Payment Method Type = MASTERCARD
+aantokal@comcast.net:England1 | Plan = Premium | videoQuality = UHD | maxStreams = 4 | Payment Method = COMCAST_BILLED
+katherine_lutz@comcast.net:Aceac1991! | Plan = Premium | videoQuality = UHD | maxStreams = 4 | Payment Method = CC | Payment Method Type = VISA
+terrytsmith@comcast.net:harmony12 | Plan = Standard | videoQuality = HD | maxStreams = 2 | Payment Method = COMCAST_BILLED
+4sals@comcast.net:1Snooker! | Plan = Premium | videoQuality = UHD | maxStreams = 4 | Payment Method = CC | Payment Method Type = VISA
+kilirose@comcast.net:kilikina | Plan = Standard | videoQuality = HD | maxStreams = 2 | Payment Method = CC | Payment Method Type = MASTERCARD
+michaelade@comcast.net:Starfish3 | Plan = Basic | videoQuality = SD | maxStreams = 1 | Payment Method = CC | Payment Method Type = MASTERCARD
+kayla.caron@comcast.net:Mass02368! | Plan = Standard | videoQuality = HD | maxStreams = 2 | Payment Method = PAYPAL
+robert_thompson77510@comcast.net:ryan2004 | Plan = Premium | videoQuality = UHD | maxStreams = 4 | Payment Method = CC | Payment Method Type = VISA
+wggarrett@comcast.net:gartie21 | Plan = Basic | videoQuality = SD | maxStreams = 1 | Payment Method = CC | Payment Method Type = AMEX
+mattrianda@comcast.net:Guidotti905 | Plan = Premium | videoQuality = UHD | maxStreams = 4 | Payment Method = CC | Payment Method Type = MASTERCARD
+jannelldawson3458@comcast.net:Noswad724 | Plan = Premium | videoQuality = UHD | maxStreams = 4 | Payment Method = CC | Payment Method Type = VISA
+ftdasilva97@comcast.net:Trened1976! | Plan = Standard | videoQuality = HD | maxStreams = 2 | Payment Method = COMCAST_BILLED
+lorenzo300@comcast.net:ClipJump7 | Plan = Basic | videoQuality = SD | maxStreams = 1 | Payment Method = CC | Payment Method Type = VISA
+zucerb@comcast.net:Emilie12 | Plan = Standard | videoQuality = HD | maxStreams = 2 | Payment Method = COMCAST_BILLED
+jvshop@comcast.net:D4yc4r3r | Plan = Standard | videoQuality = HD | maxStreams = 2 | Payment Method = CC | Payment Method Type = VISA
+glo.aragon@comcast.net:kev112194 | Plan = Standard | videoQuality = HD | maxStreams = 2 | Payment Method = CC | Payment Method Type = MASTERCARD
+walker8527@comcast.net:Titan2727 | Plan = Premium | videoQuality = UHD | maxStreams = 4 | Payment Method = PAYPAL
+edbazo@comcast.net:Rambis99! | Plan = Standard | videoQuality = HD | maxStreams = 2 | Payment Method = CC | Payment Method Type = VISA
+joge101@comcast.net:Alpinee1! | Plan = Premium | videoQuality = UHD | maxStreams = 4 | Payment Method = COMCAST
+askb91@comcast.net:zxcvb123 | Plan = Standard | videoQuality = HD | maxStreams = 2 | Payment Method = COMCAST_BILLED
+jacqueltb165@comcast.net:bsmok1e165 | Plan = Premium | videoQuality = UHD | maxStreams = 4 | Payment Method = CC | Payment Method Type = VISA
+redenius18@comcast.net:randallj1! | Plan = Standard | videoQuality = HD | maxStreams = 2 | Payment Method = CC | Payment Method Type = VISA
+maggiedet@comcast.net:Illinois1! | Plan = Premium | videoQuality = UHD | maxStreams = 4 | Payment Method = CC | Payment Method Type = VISA
+bobanto@comcast.net:N0rthp0le | Plan = Premium | videoQuality = UHD | maxStreams = 4 | Payment Method = CC | Payment Method Type = VISA
+robert.marie.meyer@comcast.net:Bob01091951 | Plan = Basic | videoQuality = SD | maxStreams = 1 | Payment Method = CC | Payment Method Type = VISA
+catherine.macdonagh@comcast.net:Saraha617 | Plan = Premium | videoQuality = UHD | maxStreams = 4 | Payment Method = COMCAST
+lmarie220@comcast.net:112668jg | Plan = Standard | videoQuality = HD | maxStreams = 2 | Payment Method = PAYPAL
+mthode@comcast.net:Service!61 | Plan = Standard | videoQuality = HD | maxStreams = 2 | Payment Method = PAYPAL
+Pch1969@Gmail.Com:soon1969 | Plan = พรีเมียม | videoQuality = UHD | maxStreams = 4 | paymentMethod = CC
+coy1chris@yahoo.com:Derrick$8 | Plan = Basic | videoQuality = SD | maxStreams = 1 | paymentMethod = CC
+rizky.elyano@yahoo.com:30April1998 | Plan = Mobile | videoQuality = SD | maxStreams = 1 | paymentMethod = MOBILE_WALLET
+marie-wiemer@gmx.de:Selina96! | Plan = Standard | videoQuality = HD | maxStreams = 2 | paymentMethod = PAYPAL
+dirk.poppie@gmail.com:1Session | Plan = Standard | videoQuality = HD | maxStreams = 2 | paymentMethod = CC
+einom1988@hotmail.com:ElGato_1988 | Plan = Standard | videoQuality = HD | maxStreams = 2 | paymentMethod = CC
+ketelhutlisa@gmail.com:Paula123 | Plan = Basis | videoQuality = HD720p | maxStreams = 1 | paymentMethod = EU_DIRECT_DEBIT
+ewcc_counselor@yahoo.com:3befejuZ | Plan = Premium | videoQuality = UHD | maxStreams = 4 | paymentMethod = CC
+amszika@gmail.com:Malacka2 | Plan = Standard | videoQuality = HD | maxStreams = 2 | paymentMethod = CC
+ksa.sak9@gmail.com:Sak@1230 | Plan = مميزة | videoQuality = UHD | maxStreams = 4 | paymentMethod = CC
+awilson1473@gmail.com:Maddi2007 | Plan = Standard | videoQuality = HD | maxStreams = 2 | paymentMethod = CC
+pandaplays1895@gmail.com:g00Bers2 | Plan = Basic | videoQuality = SD | maxStreams = 1 | paymentMethod = CC
+nico13170@hotmail.fr:Tiede81325 | Plan = Essentiel | videoQuality = SD | maxStreams = 1 | paymentMethod = CC
+douglascvsr@gmail.com:Nobrion1 | Plan = Standard | videoQuality = HD | maxStreams = 2 | paymentMethod = CC
+laperutapasquale@tiscali.it:Padomi.1985
+cmaldonado@viva.com.do:claca1979 | Plan = Estándar | videoQuality = HD | maxStreams = 2 | Payment Method = CC | Payment Method Type = MASTERCARD
+ajmcgill@charter.net:dallis51 | Plan = Basic | videoQuality = SD | maxStreams = 1 | Payment Method = CC | Payment Method Type = VISA
+kcradrhatr@comcast.net:hand3262 | Plan = Basic | videoQuality = SD | maxStreams = 1 | Payment Method = TMOBILE_US_
